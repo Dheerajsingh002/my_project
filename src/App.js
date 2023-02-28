@@ -1,5 +1,6 @@
 import Functionalcomponents from './Functionalcomponents';
 import FunctionalComponent from './components/FunctionalComponent';
+import Setstates from './Setstates';
 import './App.css';
 import {ClassComponent, ClassComponent1} from './components/ClasasComponent';
 const pic='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ29BZxdOgdxqh69fFahk0jn6AZGtH-0yenyQ&usqp=CAU';
@@ -35,8 +36,10 @@ function App() {
      Process: Explain how something works, step by step. Perhaps follow a sequence—first, second, third. (See an example.)
      Classification: Separate into groups or explain the various parts of a topic. (See an example.)
      Illustration: Give examples and explain how those examples support your point. (See an example in the 5-step process below.)"/>
+     
 
      </div>
+     <Setstates/>
    
     </div>
   );
