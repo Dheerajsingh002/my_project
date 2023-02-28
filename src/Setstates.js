@@ -14,12 +14,18 @@ export default class setstates extends Component {
             name:"dheeraj singh"
         });
     };
+
+    
   render() {
     return (
       <div>
         <h1>{this.state.roll}</h1>
         <h1>{this.state.name}</h1>
         <button onClick={this.updameme}>updame me</button>
+        <button>+
+            {count}
+        </button>
+        <button>-</button>
         
       </div>
     )
