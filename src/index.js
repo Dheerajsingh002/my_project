@@ -1,13 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+// import App from './App';
+// import Message from './Message';
 import reportWebVitals from './reportWebVitals';
+// import Info from './Info';
+import Grids from './Grids';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Grids/>
+    {/* <Info/> */}
+    {/* <App />
+    <Message/> */}
   </React.StrictMode>
 );
 

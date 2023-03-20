@@ -1,31 +1,31 @@
-import React from 'react'
+// import React from 'react'
 
-export default function snippetComponent() {
-  return (
-    <div>
+// export default function snippetComponent() {
+//   return (
+//     <div>
       
-    </div>
-  )
-}
-import React from 'react'
+//     </div>
+//   )
+// }
+// import React from 'react'
 
-export default function snippetComponent() {
-  return (
-    <div>
+// export default function snippetComponent() {
+//   return (
+//     <div>
       
-    </div>
-  )
-}
-import React, { Component } from 'react'
+//     </div>
+//   )
+// }
+// import React, { Component } from 'react'
 
-export default class snippetComponent extends Component {
-  render() {
-    return (
-      <div>
+// export default class snippetComponent extends Component {
+//   render() {
+//     return (
+//       <div>
         
-      </div>
-    )
-  }
-}
+//       </div>
+//     )
+//   }
+// }
 
 
